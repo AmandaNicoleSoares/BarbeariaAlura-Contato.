@@ -211,5 +211,6 @@ thead {
 }
 
 td, th {
+	padding: 8px 15px;
 	border: 1px solid #000000;
 }
