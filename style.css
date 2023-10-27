@@ -199,3 +199,7 @@ form label, form legend {
 	transform: scale(1.2);
 	background: darkorange
 }
+
+table {
+	margin: 20px 0 40px;
+}
