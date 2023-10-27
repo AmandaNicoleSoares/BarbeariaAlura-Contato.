@@ -183,8 +183,16 @@ form label, form legend {
 }
 
 .enviar {
+	border-radius: 5px;
+	border: none;
+	font-size: 18px;
+	font-weight: bold;
 	width: 40%;
 	padding: 15px 0;
 	background: orange;
 	color: white
+}
+
+.enviar:hover {
+	color:darkorange
 }
