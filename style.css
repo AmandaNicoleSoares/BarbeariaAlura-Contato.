@@ -203,3 +203,9 @@ form label, form legend {
 table {
 	margin: 20px 0 40px;
 }
+
+thead {
+	font-weight: bold;
+	background: #555555;
+	color: white
+}
