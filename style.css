@@ -209,3 +209,7 @@ thead {
 	background: #555555;
 	color: white
 }
+
+td {
+	border: 1px solid;
+}
