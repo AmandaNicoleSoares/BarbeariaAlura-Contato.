@@ -183,6 +183,7 @@ form label, form legend {
 }
 
 .enviar {
+	transition: 1s background;
 	border-radius: 5px;
 	border: none;
 	font-size: 18px;
@@ -194,5 +195,5 @@ form label, form legend {
 }
 
 .enviar:hover {
-	background:darkorange
+	background: red
 }
