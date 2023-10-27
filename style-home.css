@@ -70,3 +70,9 @@ nav a:hover {
 	color: #C78C19;
 	text-decoration: underline;
 }
+
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
