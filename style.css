@@ -183,6 +183,7 @@ form label, form legend {
 }
 
 .enviar {
+	cursor: pointer;
 	transition: 1s background;
 	border-radius: 5px;
 	border: none;
@@ -195,5 +196,5 @@ form label, form legend {
 }
 
 .enviar:hover {
-	background: red
+	background: darkorange
 }
