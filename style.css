@@ -165,7 +165,7 @@ form {
 	margin: 40px 0;
 }
 
-form label {
+form label, form p {
 	display: block;
 	font-size: 20px;
 	margin: 0 0 10px
@@ -178,8 +178,3 @@ form input, textarea {
 	width: 50%;
 }
 
-form p {
-	display: block;
-	font-size: 20px;
-	margin: 0 0 10px;
-}
