@@ -156,11 +156,15 @@ td, th {
 	padding: 5px 20px;
 }
 
-main{
+main {
 	width: 940px;
 	margin: auto;
 }
 
-form{
+form {
 	margin: 40px 0;
+}
+
+form label {
+	display: block;
 }
