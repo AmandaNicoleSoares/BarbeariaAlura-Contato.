@@ -75,10 +75,8 @@ nav a{
 }
 
 .paginas{
-    position: relative;
-	width: 940px;
-	margin: 0 auto;
+    
     display: inline;
-    padding-right: 80px;
+    padding-right: 50px;
     text-align: center;
 }
