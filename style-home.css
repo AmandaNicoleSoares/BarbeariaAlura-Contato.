@@ -66,6 +66,7 @@ nav li{
 }
 
 nav a{
+    width: 20px;
     text-transform: uppercase;
     color: #000000;
     font-weight: bold;
