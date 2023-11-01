@@ -75,6 +75,7 @@ nav a{
 }
 
 .paginas{
+    padding: 30px;
     display: inline;
     padding-right: 80px;
 }
