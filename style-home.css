@@ -53,3 +53,7 @@ ul{
 .imagembeneficios{
     width: 50%
 }
+
+nav li{
+    display: inline;
+}
