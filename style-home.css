@@ -75,6 +75,8 @@ nav a{
 }
 
 .paginas{
+    width: 20%;
+    margin-right: 15%;
     display: inline;
     padding-right: 80px;
     text-align: center;
