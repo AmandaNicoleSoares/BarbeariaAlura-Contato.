@@ -54,6 +54,12 @@ em strong{
     margin-right: 15%;
 }
 
+nav{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
 nav li{
     display: inline;
     margin: 0 0 0 15px;
@@ -69,8 +75,7 @@ nav a{
 }
 
 .paginas{
-    padding-left: 35px;
-    position: absolute;
     display: inline;
+    padding-right: 80px;
     text-align: center;
 }
