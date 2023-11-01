@@ -1,82 +1,44 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Barbearia Alura</title>
+    <link rel="stylesheet" href="style-home.css">
+</head> 
+<body>
+    <header>
+         <nav>
+            <ul class="paginas">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="produtos.html">Produtos</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+         </nav>
+        <h1 class="titulo-principal">Barbearia Alura</h1>
+    </header>
 
-#banner{
+    <img id="banner" src="banner.jpg">
+<div class="principal">
+    <h2 class="titulo-centralizado">Sobre a Barbearia Alura</h2>
 
-    width: 100%
-}
+    <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
 
-.principal{
-    background: #CCCCCCCC
-}
+    <p id="missão"><em>Nossa missão é:<strong>"Proporcionar auto-estima e qualidade de vida aos clientes".</strong></em></p>
 
-.principal{
-    padding: 30px
-}
+    <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda.O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
 
-.titulo-principal{
-  padding-left: 20px  
-}
-.titulo-centralizado{
-    text-align: center
-}
+</div>
 
-p{
-    text-align:center;
-}
+<div class="benefícios">
+    <h3>Benefícios</h3>
 
-#missão{
-    font-size: 20px
-}
+    <ul class="ul">
+    <li class="itens">Atendimento aos Clientes</li>
+    <li class="itens">Espaço diferenciado</li>
+    <li class="itens">Localização</li>
+    <li class="itens">Professionais Qualificados</li>
 
-em strong{
-    color:red
-}
-
-.itens{
-    font-style: italic
-}
-.benefícios{
-    background: #FFFFFF
-    
-}
-
-.benefícios{
-    padding: 20px
-}
-
-.imagembeneficios{
-    width: 50%
-}
-
-.ul{
-    display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-right: 15%;
-}
-
-nav{
-    position: absolute;
-    top: 0;
-    right: 0;
-}
-
-nav li{
-    display: inline;
-    margin: 0 0 0 15px;
-}
-
-nav a{
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: bold;
-    font-size: 22px;
-    text-decoration: none;
-
-}
-
-.paginas{
-    left: 30%;
-    display: inline;
-    padding-right: 50px;
-    text-align: center;
-}
+</ul>
+<img src="beneficios.jpg" class="imagembeneficios">
+</div>
+</body>
+</html>
