@@ -75,7 +75,7 @@ nav a{
 }
 
 .paginas{
-    
+    paint-order: inherit;
     display: inline;
     padding-right: 50px;
     text-align: center;
