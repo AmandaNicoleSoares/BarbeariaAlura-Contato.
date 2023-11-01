@@ -69,7 +69,7 @@ nav a{
 }
 
 .paginas{
-    padding-right: 25px;
+    padding: auto;
     position: absolute;
     display: inline;
     text-align: center;
